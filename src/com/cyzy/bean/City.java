@@ -4,6 +4,8 @@ public class City {
 	private int cityId;
 	private String cityName;
 	private int cityPId;
+	
+	
 
 	public City(int cityId, String cityName, int cityPId) {
 		super();
