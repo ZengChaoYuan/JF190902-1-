@@ -4,6 +4,8 @@ public class Goods {
 
 	private int goodsId;
 	private String goodsName;
+	
+	
 
 	public Goods(int goodsId, String goodsName) {
 		super();
